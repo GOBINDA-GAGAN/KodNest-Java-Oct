@@ -3,5 +3,6 @@ public class WelcomeToJava {
        //Write your code here
 
        System.out.println(" Hello i am alok ");
+        System.out.println("this is from github");
     }
 }
