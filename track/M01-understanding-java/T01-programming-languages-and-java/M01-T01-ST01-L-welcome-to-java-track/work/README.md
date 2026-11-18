@@ -2,26 +2,27 @@
 
 ## My Name
 
-Write your name.
+# Gobinda Gagan Dey
+
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+# Basic of programing(Logic Bulding)
 
 ## Why I Selected Java
 
-Write your reason in your own words.
+# For me java is a just a Language, i am comfotable  with java syntex
 
 ## My Career Goal
 
-Write the role you want to achieve.
+Software Engineere
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means:way of solving a problem in technincally
 
-Java is:
+Java is: programing language
 
 In this track, I will learn:
