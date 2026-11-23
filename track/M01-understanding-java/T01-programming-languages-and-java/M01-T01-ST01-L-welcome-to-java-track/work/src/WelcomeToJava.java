@@ -4,5 +4,7 @@ public class WelcomeToJava {
         System.out.println(" Hello i am alok ");
         System.out.println("this is from github");
         System.out.println("I  love india");
+        byte a=127; 
+        System.out.println(a+1);
     }
 }
